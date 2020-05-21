@@ -2,6 +2,8 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
+    <Authors>wangzhen</Authors>
+    <RepositoryUrl>https://github.com/yuezhuosuigu-cs/SuperDB.Config.git</RepositoryUrl>
   </PropertyGroup>
 
 </Project>
